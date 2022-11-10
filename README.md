@@ -1,6 +1,6 @@
 # Global-Awareness-in-Real-world-Inscription-Character-Restoration
 
-we build a new dataset for the real-world inscription character restoration task. From digital artifacts and documents, field trip photos, and websites, we collect character images of authoritative and representative ancient Chinese inscriptions, such as ZuiwengtingJi, Chu Shi Biao, Qinli Stele and Steles of the Temple of Confucius. Our collection contains over 300 of famous calligraphers' inscriptions from over tens of different sources. Our datasets are used for learning and communication purposes.
+We build a new dataset for the real-world inscription character restoration task. From digital artifacts and documents, field trip photos, and websites, we collect character images of authoritative and representative ancient Chinese inscriptions, such as ZuiwengtingJi, Chu Shi Biao, Qinli Stele and Steles of the Temple of Confucius. Our collection contains over 300 of famous calligraphers' inscriptions from over tens of different sources. Our datasets are used for learning and communication purposes.
 
 ## Statistics of Dataset 
 
